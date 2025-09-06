@@ -31,17 +31,13 @@ lottery-game-html-css-js/
 │── script.js
 │── README.md
 │── LICENSE
+│── screenshot.png
 
 ## Preview
 
 Here’s a preview of the Lottery Game interface:
 
-![Lottery Game Preview](screenshot.png)  
-_(Place the screenshot image in the repo folder as `screenshot.png`)_
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
+![Lottery Game Preview](screenshot.png)
 
 ## Live Demo
 
