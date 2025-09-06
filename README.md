@@ -41,7 +41,7 @@ Here’s a preview of the Lottery Game interface:
 
 ## Live Demo
 
-👉 [Play the Game Here](https://your-username.github.io/lottery-game/)
+👉 [Play the Game Here](https://karthik-koppera.github.io/lottery-game-html-css-js/)
 
 ## License
 
