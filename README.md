@@ -25,6 +25,7 @@ The game allows users to interact with the UI, generate random results, and get 
 
 ## Project Structure/
 
+```
 lottery-game-html-css-js/
 │── index.html
 │── style.css
@@ -32,6 +33,8 @@ lottery-game-html-css-js/
 │── README.md
 │── LICENSE
 │── screenshot.png
+
+```
 
 ## Preview
 
